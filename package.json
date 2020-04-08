@@ -1,0 +1,19 @@
+{
+  "name": "postcss-import-alias",
+  "version": "1.0.0",
+  "description": "Use aliases in your PostCSS import statements",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/privatenumber/postcss-import-alias.git"
+  },
+  "author": "Hiroki Osame <hiroki.osame@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/privatenumber/postcss-import-alias/issues"
+  },
+  "homepage": "https://github.com/privatenumber/postcss-import-alias#readme",
+  "dependencies": {
+    "postcss": "^7.0.27"
+  }
+}
