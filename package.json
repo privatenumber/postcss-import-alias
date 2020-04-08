@@ -2,6 +2,12 @@
   "name": "postcss-import-alias",
   "version": "1.0.0",
   "description": "Use aliases in your PostCSS import statements",
+  "keywords": [
+    "postcss",
+    "import",
+    "alias",
+    "aliases"
+  ],
   "main": "index.js",
   "repository": {
     "type": "git",
