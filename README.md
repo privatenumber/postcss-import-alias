@@ -1,14 +1,13 @@
-# postcss-import-alias
+# postcss-import-alias [![Latest version](https://badgen.net/npm/v/postcss-import-alias)](https://npm.im/postcss-import-alias) [![Monthly downloads](https://badgen.net/npm/dm/postcss-import-alias)](https://npm.im/postcss-import-alias) [![Install size](https://packagephobia.now.sh/badge?p=postcss-import-alias)](https://packagephobia.now.sh/result?p=postcss-import-alias)
 
-> Use aliases in your PostCSS import statements
+Use aliases in your CSS import statements via PostCSS
 
-
-## Install
+## 🚀 Install
 ```
 $ npm i postcss-import-alias
 ```
 
-## Usage
+## 👨‍🏫 Usage
 ```js
 import postcss from 'postcss';
 import postcssImportAlias from 'postcss-import-alias';
@@ -30,6 +29,5 @@ postcss([
 @import "https://cdnjs.cloudflare.com/ajax/libs/prism/1.20.0/themes/prism.min.css";
 ```
 
-
-## License 
+## 💼 License 
 MIT
